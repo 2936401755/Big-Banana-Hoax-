@@ -1,0 +1,5 @@
+Java写的一个简单的大香蕉恶搞程序,不会对系统造成任何损坏,仅仅只是随机在电脑播放大香蕉GIF图和大香蕉的BGM 通过多线程创建GIF播放窗口,后台播放大香蕉BGM,通过nircmd实现控制Windows关闭静音和调整到最大音量.按下键盘f12会终止程序运行. 每零点五秒会关闭一次静音和设置最大音量 
+GIFPlayer:播放GIF图 
+main:启动程序和播放BGM 
+KeyboardInputExample:键盘事件监听器 
+WindowsVolumeMaximizer:nircmd调用程序
